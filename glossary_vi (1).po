@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Glossary\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Language-Team: Vietnamese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Ví dụ thuật ngữ mẫu - hãy sửa/xóa/thêm theo nhu cầu của bạn
+msgid "Bomb"
+msgstr "Bom"
+
+msgid "Platform"
+msgstr "Bệ phóng"
+
+msgid "Target"
+msgstr "Mục tiêu"
+
+msgid "Drop"
+msgstr "Thả"
+
+msgid "Carry"
+msgstr "Mang"
+
+msgid "Comms"
+msgstr "Liên lạc"
+
+msgid "Objective"
+msgstr "Mục tiêu nhiệm vụ"
+
+msgid "Spawn"
+msgstr "Điểm hồi sinh"
+
+msgid "Respawn"
+msgstr "Hồi sinh"
+
+msgid "Checkpoint"
+msgstr "Điểm kiểm tra"
