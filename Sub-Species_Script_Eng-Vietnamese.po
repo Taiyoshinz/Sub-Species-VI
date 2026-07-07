@@ -1,0 +1,1575 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "[Comms (Female)] t01_intro_001"
+msgid ""
+"Carry Bomb To The platform\n"
+"Press Հ To Drop Bomb On Target"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_002"
+msgid "Destroy The Targets"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_003"
+msgid "In Hover Mode You can Grapple & Move Objects With a Green Outline"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_004"
+msgid "Move To Area Indicated On Your Map"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_005"
+msgid ""
+"Land On Crate In Hover ModeTo Resupply Armour & Ammo\n"
+"Use  Հ  To Change To Hover Mode"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_006"
+msgid "Use   Թ  To Fire Main Weapon"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_007"
+msgid "Use  Ժ  To Deploy A Mine Or Flare"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_008"
+msgid "Use  Լ  To Rotate  Ա  To Move"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_009"
+msgid "Use  Ժ  To Fire Heavy Weapon"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_010"
+msgid "While Moving Use   Է   To Boost"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_011"
+msgid "Use     Զ  To Change To Hover Mode"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_012"
+msgid "Use Ը  To Select Between Mines & Flares"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_013"
+msgid "Use  Ա Գ Բ To Move"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_014"
+msgid "Use  Ն   To Select Between Mines Or Flares"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_015"
+msgid "While Moving Use Ճ    To Boost"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_016"
+msgid "Use  Յ  To Move"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_017"
+msgid "Use   Ձ  To Fire Heavy Weapon"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_018"
+msgid "Use  Մ  To Deploy Mine Or Flare"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_019"
+msgid "Use  Ղ   To Fire Main Weapon"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_020"
+msgid "Use  Հ  To Change To Hover Mode"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_021"
+msgid ""
+"Carry Bomb To The platform\n"
+"Press      Զ To Drop Bomb On Target"
+msgstr ""
+
+msgctxt "[Comms (Female)] t01_intro_022"
+msgid ""
+"Land On Crate In Hover ModeTo Resupply Armour & Ammo. Use   Զ  To Change To "
+"Hover Mode"
+msgstr ""
+
+msgctxt "[Comms (Female)] m01_intro_001"
+msgid ""
+"We have the last known location of a stockpile of weapons. I've patched it "
+"through to your map. Follow the navigation points and we'll initiate the "
+"scan."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m01_intro_002"
+msgid "Understood, on my way."
+msgstr ""
+
+msgctxt "[Comms (Female)] m01_intro_003"
+msgid ""
+"Be careful, you're going to attract all sorts of unwanted attention in open "
+"water."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m01_intro_004"
+msgid "Nothing I haven't dealt with before, I'll be fine."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m01_scan_001"
+msgid "The route to the weappons stockpile is blocked off"
+msgstr ""
+
+msgctxt "[Comms (Female)] m01_scan_002"
+msgid ""
+"Understood, we have spotted a Demolition core in the caves above your "
+"position. If it's still active, you could use it to demolish the wall in "
+"front of you. Risky I know, but right now looks like it's the least-worst "
+"option. What do you think?"
+msgstr ""
+
+msgctxt "[Pilot (Male)] m01_scan_003"
+msgid "Let's go see if it's something we can use."
+msgstr ""
+
+msgctxt "[Comms (Female)] m01_demolitioncore_001"
+msgid ""
+"Looks like it's in working condition, I can detonate it from here. Bring it "
+"to the drop arrow I've placed on your map. The extra weight from the core "
+"should allow you to drop through the current, you can use it as a shortcut."
+msgstr ""
+
+msgctxt "[Comms (Female)] m01_demolitioncore_002"
+msgid ""
+"Well done, you're through. I'm picking up a lot of movement from inside the "
+"cave. Don't leave yourself vulnerable; clear everything out before "
+"retrieving the Stockpile."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m01_demolitioncore_003"
+msgid "Understood. I'm heading in."
+msgstr ""
+
+msgctxt "[Comms (Female)] m02_intro_001"
+msgid ""
+"So, as you know your Sub had been designed to work with most UNCF equipment,"
+" but we haven't tested it in a real-world scenario yet. On your map is the "
+"location of a drone repair rig. If we can get this working well have access "
+"to UNCF network, which would make any further operations a lot easier."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m02_intro_002"
+msgid "I've received the rig's position, heading out now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m02_rig_001"
+msgid ""
+"I have the rig in sight, but it doesn't look good. The power generator is "
+"open and two of the cells are completely empty."
+msgstr ""
+
+msgctxt "[Comms (Female)] m02_rig_002"
+msgid ""
+"We'll need to replenish those cells. There are a couple of disabled drones "
+"nearby. Their locations have been marked on your map. You should be able to "
+"siphon their cells and power up the rig."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m02_rig_003"
+msgid ""
+"Nothing is ever straight-forward down here. I'm on my way to the first drone"
+" now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m02_drone1_001"
+msgid "I've found the drone and emptied its cell."
+msgstr ""
+
+msgctxt "[Comms (Female)] m02_drone1_002"
+msgid ""
+"Good. You'll need to charge the generator before you go after that second "
+"drone. Your sub doesn't have the capacity to carry more than one charge at a"
+" time. I'll plot you a course out of there."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m02_drone1_003"
+msgid "Got it, on my way back to the repair rig now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m02_drone2_001"
+msgid ""
+"OK, we have a second cell ready to go. You sure this is going to work? I'm "
+"not going to explode in this rig, am I?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m02_drone2_002"
+msgid ""
+"Explode; no, not a chance. Although you may Implode, but the odds of that "
+"happening are extremely low, we're talking single digits here."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m02_drone2_003"
+msgid "Feel better already, Thanks."
+msgstr ""
+
+msgctxt "[Comms (Female)] m03_intro_001"
+msgid ""
+"The log on that repair rig showed the co-ordinate for a group of EX class "
+"fighter drones that the rig resupplied. Thanks to your efforts we have the "
+"location of what remains of them."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m03_intro_002"
+msgid "EX class, the ones with the experimental tech?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m03_intro_003"
+msgid ""
+"That's them. Hopefully we can find something on those wrecks worth "
+"salvaging. Coordinates on your map."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m03_wreck1_001"
+msgid ""
+"I've found something on the wreck. It doesn't look familiar, what do you "
+"think?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m03_wreck1_002"
+msgid ""
+"Our Weapons Officer is looking at it as we speak. They say it's some sort of"
+" kinetic weapon. Its damaged so we'll need as many examples of it as you can"
+" find to have a chance at back-engineering it. Get after that next wreck."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m03_wreck2_001"
+msgid ""
+"We're in luck. The second wreck has the same weapon as the previous one, but"
+" it's not in great condition."
+msgstr ""
+
+msgctxt "[Comms (Female)] m03_wreck2_002"
+msgid ""
+"Anything you can find will help with a rebuild. Hang on... we're getting "
+"some info from the last wreck. It's the location of a third EX drone. "
+"Sending you its coordinates now. Be careful, it's in an area of high "
+"infestation."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m03_wreck2_003"
+msgid ""
+"Yea, probably not a good time to ask why they needed experimental weapons in"
+" this area?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m03_wreck2_004"
+msgid "You're right, it's not a good time. Good luck."
+msgstr ""
+
+msgctxt "[Comms (Female)] m04_intro_001"
+msgid ""
+"So just to give you a reminder; this is a culling operation. Find the "
+"designated creatures and put them down. Don't assume this will be without "
+"any difficulty, The things we're hunting are tricky to deal with."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m04_intro_002"
+msgid ""
+"Yes, I read the briefing, Refractive camouflage and close quarter high "
+"voltage attacks, too much for a drone to handle?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m04_intro_003"
+msgid ""
+"Exactly, that's why this kinda work pays well, and we could do with the "
+"cash. Your last encounter had an expensive repair bill."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m04_intro_004"
+msgid ""
+"Cathedral sized crab... things, tend to put up a fight. First location "
+"received, on my way."
+msgstr ""
+
+msgctxt "[Comms (Female)] m04_cave1_001"
+msgid ""
+"We are going to do this by the numbers, one chamber at a time, you make sure"
+" everything is cleared out before you move on to the next one."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m04_cave1_002"
+msgid "You make it sound so simple."
+msgstr ""
+
+msgctxt "[Comms (Female)] m04_cave1complete_001"
+msgid ""
+"Sensors are showing all clear in this chamber. Good job, here is the "
+"location of the next area."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m04_cave1complete_002"
+msgid "Copy, on my way."
+msgstr ""
+
+msgctxt "[Comms (Female)] m04_cave2complete_001"
+msgid "Another one down, good job. Here is the last area on our itinerary."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m04_cave3Complete_001"
+msgid "That looks like everything."
+msgstr ""
+
+msgctxt "[Comms (Female)] m04_cave3Complete_002"
+msgid "Nice job, now bring it on home."
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_intro_001"
+msgid ""
+"We are going to have to postpone the culling operation. We have just picked "
+"up a UNCF distress call. We're the only crew in the area, we're obligated to"
+" help."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_intro_002"
+msgid "What the situation?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_intro_003"
+msgid ""
+"A UNCF Sub was disabled during a survey mission. Its whereabouts are "
+"unknown. They need us to locate the sub so that a recovery vehicle can be "
+"sent in."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_intro_004"
+msgid "Send me the sub's last location, I can start the search there."
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_intro_005"
+msgid ""
+"It's not that straight forward. The sub's last known location is well "
+"outside of our operational range. The pressure will destroy your sub before "
+"you even get close."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_intro_006"
+msgid "So we can't do anything?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_intro_007"
+msgid ""
+"We've been given coordinates by the UNCF. They're telling us we can help "
+"with a rescue from there, but time is a factor so you need to move."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_intro_008"
+msgid "Heading out now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_facility_001"
+msgid "What is this place?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_facility_002"
+msgid ""
+"It's a deep-sea research facility; I've heard about them but have never "
+"actually seen one. The UNCF won't even confirm the existence of a place like"
+" this. They must be desperate if we're allowed to walk through the door. "
+"We've received instructions to activate the nearby repair rig."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_facility_003"
+msgid ""
+"It needs two cells to be charged. Can you scan for some drones in the "
+"vicinity that I can use?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_facility_004"
+msgid "OK, we have something. Coordinates on your map."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_rigreturn_001"
+msgid "OK the rig is activated. Getting into position now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_rigupgrade_001"
+msgid ""
+"My pressure gauge is reading zero. The repair rig must have fried it. Great "
+"that's all we need."
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_rigupgrade_002"
+msgid ""
+"Can confirm your reading, but it's not a malfunction. Wait... OK we have "
+"been informed that your pressure tolerance has been massively increased, but"
+" its temporary. Here's the last known location of the missing sub. Get after"
+" it."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_rigupgrade_003"
+msgid "OK, if you're sure."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_missingsub_001"
+msgid ""
+"I've found her. She's still in one piece. Give my location to the recovery "
+"vehicle."
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_missingsub_002"
+msgid "Nice work."
+msgstr ""
+
+msgctxt "[Comms (Female)] m05_missingsub_003"
+msgid ""
+"All that activity has drawn some unwanted attention. Keep the route clear as"
+" the recovery vehicle makes its way to the surface. If it gets swarmed, this"
+" rescue is over."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m05_missingsub_004"
+msgid "Understood."
+msgstr ""
+
+msgctxt "[Comms (Female)] m06_intro_001"
+msgid "That restricted zone we accessed for the rescue left a footprint."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m06_intro_002"
+msgid "Any idea how were going to do that?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m06_intro_003"
+msgid ""
+"Right now, this is just reconnaissance. Have a look and see what's possible."
+" We can't pass up this opportunity. I've marked the closest location to the "
+"gate on your map."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m06_intro_004"
+msgid "Let's see what's down here."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m06_location1_001"
+msgid ""
+"That demolition core could take out this wall, but that won't open the gate "
+"behind it, any ideas?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m06_location1_002"
+msgid ""
+"We've scanned the area using the gate signature as part of the sweep. "
+"There's a disabled drone nearby that's singing the same tune. Check it out."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m06_drone_001"
+msgid "I've found it. Seems to be still active, now what?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m06_drone_002"
+msgid ""
+"Move it to the position we have marked on your map. We can use it to open "
+"the gate."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m06_dropoff_001"
+msgid "Why can't I move this directly to the gate?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m06_dropoff_002"
+msgid ""
+"Too many obstacles that might do further damage to the drone. Now find the "
+"demolition core and make us a shortcut."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m06_dropoff_003"
+msgid "Sounds like a plan."
+msgstr ""
+
+msgctxt "[Comms (Female)] m06_walldemolished_001"
+msgid ""
+"Excellent work, now move the drone to the gate. Fingers crossed it should "
+"still open."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m06_gateopen_001"
+msgid "We're in. Let's see what we have here."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m06_creatureattack_001"
+msgid "What the hell was that?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m06_creatureattack_002"
+msgid "Nothing good, get out of there!"
+msgstr ""
+
+msgctxt "[Comms (Female)] m06_creatureattack_003"
+msgid ""
+"You need to find another way out of there. The gate's not responding. Keep "
+"moving, that thing is not going to miss twice."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_intro_001"
+msgid "So we're sailing without a Salvage licence or a UNCF transponder."
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_intro_002"
+msgid ""
+"We rescued the crew of that Sub. We did also break into research facility "
+"and turned years of research into glow-in-the-dark soup. Those things cancel"
+" each other out, right?"
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_intro_003"
+msgid ""
+"Maybe, but we've run out of good will at this stage. If we're caught "
+"operating in restricted waters without a transponder the drones will open "
+"fire on-sight."
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_intro_004"
+msgid ""
+"The EX Wrecks we're after will bring in a lot of cash, especially to the "
+"market we have to sell it in. We just have to be discrete."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_intro_005"
+msgid "Wreck coordinates received. I'll be as discrete as I can."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_acid_lakes_001"
+msgid "What am I looking at?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_acid_lakes_002"
+msgid ""
+"It's called a vitiated lake. It's the creatures' colonised territory. Be "
+"very careful diving in, as the subs hull will start to corrode after a short"
+" time. So keep an eye on your corrosion gauge."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_acid_lakes_003"
+msgid "Great, one more thing to worry about."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_exwreck1_001"
+msgid "First wreck is looking good, not perfect, but it's a good start."
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_exwreck1_002"
+msgid ""
+"Can confirm, our engineers are looking excited. Plotting you a course to the"
+" next wreck."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_chokepoint_001"
+msgid ""
+"Looks like I can just about get through this thing, it's a tight squeeze but"
+" I can make it."
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_chokepoint_002"
+msgid ""
+"Hold up. That thing is like a giant coral polyp. If you go through, you'll "
+"be crushed and digested. Your weapons will have no effect."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_chokepoint_003"
+msgid "That's a no then. Plot me another way around."
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_chokepoint_004"
+msgid "Copy, there may be a detour through this cave network."
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_chokepoint_005"
+msgid "Wait, that transport crate, is it carrying countermeasures?"
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_chokepoint_006"
+msgid "Yea, but it's too damaged to be unloaded. Not much good to us."
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_chokepoint_007"
+msgid "If we drop it through the choke point it'll get crushed and detonate."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_chokepoint_008"
+msgid "Its worth a try, let's do this."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m07_chokepoint_clear_001"
+msgid "Right up to the edge of discretion with that one."
+msgstr ""
+
+msgctxt "[Comms (Female)] m07_chokepoint_clear_002"
+msgid "The EX wreck should be in the chamber below."
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_intro_001"
+msgid ""
+"So, those EX wrecks we picked apart, well according to their logs they were "
+"seeking the remains of the Beagle 6; A grid search that they didn't "
+"complete. This place was next on their search list."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m08_intro_002"
+msgid ""
+"Beagle 6, I've never salvaged a spacecraft before. Are there buyers for that"
+" kind of thing?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_intro_003"
+msgid ""
+"Oh yea, someone, somewhere will pay a lot for a piece of the craft that "
+"almost ended the world. Before we head out, there is an outpost near your "
+"position that we should check out."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m08_intro_004"
+msgid "Coordinates revived. Heading out now."
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_outpost_001"
+msgid "A powered-down weapons depot. Its inventory says its carrying"
+msgstr ""
+
+msgctxt "[Pilot (Male)] m08_outpost_002"
+msgid ""
+"I have bad memories going through those things. They can stay closed. Plot "
+"me a course to the search coordinates."
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_outpost_003"
+msgid "OK, you should be good to go now."
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_beagle_chamber_approach_001"
+msgid "We're going to need those demolition cores down here"
+msgstr ""
+
+msgctxt "[Pilot (Male)] m08_beagle_chamber_approach_002"
+msgid "Wait, wont it dissolve in the lake?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_beagle_chamber_approach_003"
+msgid ""
+"Good point, I didn't think of that. Hang on... OK, the engineers are running"
+" a simulation on how long demolition core could survive in a vitiated lake. "
+"While that's running, we better get that depot activated."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m08_beagle_chamber_approach_004"
+msgid ""
+"I've got the location of some wrecks that could potentially help with that, "
+"on it now."
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_weapondepot_001"
+msgid ""
+"Good work, the depot is free. The simulation results are back. The core will"
+" remain functional for long enough to break through that wall, but don't "
+"hang around."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m08_weapondepot_002"
+msgid "How long do I have?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_weapondepot_003"
+msgid ""
+"Long enough, literally seconds to spare. That's a lifetime down there. Trust"
+" me, you'll be fine."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m08_weapondepot_004"
+msgid "Trust me, you'll be fine, save that line for my eulogy."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m08_wallcollapse_001"
+msgid "I have eyes on the wreck."
+msgstr ""
+
+msgctxt "[Comms (Female)] m08_wallcollapse_002"
+msgid "Excellent work. This could be something special."
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_intro_001"
+msgid ""
+"We've already found potential bidders for the beagle 6 wreckage, and we "
+"still have the last part of the search grid to look for some more. Thing are"
+" looking up."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_intro_002"
+msgid "Well let's get searching then."
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_intro_003"
+msgid ""
+"The search grid has the wreckage deep underground. This could be tough, I "
+"can see why they haven't reached it yet."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_intro_004"
+msgid "How does a spacecraft crash-land underground?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_intro_005"
+msgid ""
+"You've seen what we're dealing with. For all we know it grew legs and walked"
+" underground."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_current_001"
+msgid ""
+"Now what? I'm not getting through that no matter how long I burn the "
+"engines."
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_current_002"
+msgid ""
+"The UNCF may have sent supplies for drones to deal with this. Scans show a "
+"weapons depot nearby. It's out of the way, but may have something that can "
+"help. Plotting a course now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_weapondepot_001"
+msgid "What is this thing?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_weapondepot_002"
+msgid ""
+"Engineering says it's a torpedo that can be deployed to restrict currents. "
+"Normally that's something we would back engineer and sell but that's not "
+"going to help here. Sending you the deployment coordinates."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_weapondepot_003"
+msgid "Hey it worked, nice. Making my way to the search grid now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_plug_001"
+msgid ""
+"There is... what looks like a wall of moving flesh, are you seeing this?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_plug_002"
+msgid "Yea, that's going to be a problem."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_plug_003"
+msgid "You don't say. Did the depot contain any holy water?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_plug_004"
+msgid ""
+"So, this is a two-part problem and neither solution is here. This could be "
+"end of the mission, can't win em all, I guess. Setting coordinates to a "
+"nearby outpost."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_plug_005"
+msgid "Copy that. I'll look for a consolation prize."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_outpost_001"
+msgid "This depot contains something unusual."
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_outpost_002"
+msgid ""
+"It's a chemical weapon. Kinetic weapons won't work against the flesh wall "
+"because of its regenerative properties, but that might."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_outpost_003"
+msgid ""
+"No way I could deploy this inside a vitiated lake. A demolition core could "
+"barely hold together long enough, and this is twice the depth."
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_outpost_004"
+msgid ""
+"Unless... we put the chemical in something. There is an empty ammo crate not"
+" far from you. That might give you the time you need to deploy."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_outpost_005"
+msgid "Its worth a try."
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_outpost_006"
+msgid ""
+"Use that demolition core at the given coordinates. The second part of our "
+"problem is about to go away."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_beagle_chamber_001"
+msgid "There it is... wait, something else is in here, its big."
+msgstr ""
+
+msgctxt "[Comms (Female)] m09_beagle_chamber_002"
+msgid "It's a particularly dangerous species, very aggressive, be careful."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m09_beagle_chamber_003"
+msgid "I will."
+msgstr ""
+
+msgctxt "[Comms (Female)] m10_intro_001"
+msgid "How you feeling about this one?"
+msgstr ""
+
+msgctxt "[Pilot (Male)] m10_intro_002"
+msgid ""
+"It's a big risk. We're crossing a line here, it's one thing salvaging UNCF "
+"equipment, it's quite another to steal directly from them."
+msgstr ""
+
+msgctxt "[Comms (Female)] m10_intro_003"
+msgid ""
+"Yea, I feel the same way. If we pull this off, though, I mean a specimen "
+"vault that's still intact, it could be the key to ending all of this."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m10_intro_004"
+msgid ""
+"So, to salvage the vault, we need a recovery vehicle and to get the recovery"
+" vehicle were going to lay a trap with a UNCF transponder?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m10_intro_005"
+msgid ""
+"Exactly, we're here to get that transponder. Way too dangerous to take a "
+"direct route, so we're going to take a backdoor through the cave network. "
+"Laying in coordinates now."
+msgstr ""
+
+msgctxt "[Comms (Female)] m10_chokepoint_001"
+msgid ""
+"You need to get down there. We'll use the same strategy as last time. Let it"
+" crush something explosive. Make your way through the caves above you. "
+"There're supplies inside you can use."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m10_chokepoint_002"
+msgid "Copy, on my way."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m10_current_001"
+msgid "Those big torpedoes, with the forcefields, any nearby?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m10_current_002"
+msgid "The weapons depot in the adjoining chamber may have one. Check it out."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m10_weapondepot_001"
+msgid ""
+"Nothing down here works! We need to go syphoning charges again. You know the"
+" drill."
+msgstr ""
+
+msgctxt "[Comms (Female)] m10_weapondepot_002"
+msgid ""
+"I do. The scan has found some potential targets. Marking them on your map "
+"now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m10_weapondepot_charged_001"
+msgid "OK, finally, we have it."
+msgstr ""
+
+msgctxt "[Comms (Female)] m10_weapondepot_charged_002"
+msgid "Excellent work. Here are the deployment coordinates."
+msgstr ""
+
+msgctxt "[Comms (Female)] m10_weapondepot_charged_003"
+msgid ""
+"The sub is docked at an abandoned outpost nearby. Watch your pressure gauge,"
+" you'll be diving deep."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m10_weapondepot_charged_004"
+msgid "Have a visual on the sub, going for extraction now."
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_intro_001"
+msgid ""
+"The first part of this plan went... relatively smoothly. The next phase has "
+"already started. We've discreetly set up some EMP charges inside a remote "
+"cavern. You need to get yourself and our newly acquired transponder to that "
+"cavern."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m11_intro_002"
+msgid "So I'm the bait?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_intro_003"
+msgid ""
+"In a manner of speaking. We're going to have to find a more circuitous route"
+" to the cavern. Your sub is not built for stealth and would light up any "
+"sensors in the area."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m11_intro_004"
+msgid "OK, coordinates received. Let's get going."
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_corrosionbubble_001"
+msgid "Do you see that bubble formation in front of you?"
+msgstr ""
+
+msgctxt "[Pilot (Male)] m11_corrosionbubble_002"
+msgid "Yea, how will that thing kill me?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_corrosionbubble_003"
+msgid ""
+"You're so cynical, manoeuvre inside, it will reverse the lake's corrosion "
+"effects."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m11_insidebubble_001"
+msgid "Look at that, it's working."
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_collapsingwall_001"
+msgid ""
+"The cavern is just passed this wall. We may be able to move a demolition "
+"core between the corrosion bubbles and open it up."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m11_collapsingwall_002"
+msgid "No other way to do this?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_collapsingwall_003"
+msgid ""
+"I'm open to suggestions... If you think of something, let me know. In the "
+"meantime, find some cores. This outpost may have something."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m11_collapsingwall_004"
+msgid ""
+"I'm going to assume that when I arrive at said outpost, something may need "
+"to be charged?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_collapsingwall_005"
+msgid "Oh almost certainly, I'll start looking for drones to syphon now."
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_demolitioncore_pickup_001"
+msgid ""
+"There is a series of corrosion bubbles in the lake near you. There should be"
+" enough to reach the wall we need to break through. Take your time, be "
+"careful."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m11_demolitioncore_pickup_002"
+msgid "That wasn't so hard."
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_demolitioncore_pickup_003"
+msgid "See, what were you worried about? Laying in a course for the cavern."
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_cavern_001"
+msgid "We're here, get into position and activate the transponder."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m11_cavern_002"
+msgid "I have the recovery vehicle on my sensors, any second now."
+msgstr ""
+
+msgctxt "[Comms (Female)] m11_empblast_001"
+msgid "If this doesn't work... we're in so much trouble."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_intro_001"
+msgid ""
+"No going back now. The recovery vehicle is under our control and ready to "
+"capture the specimen vault as soon we've finished our job."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_intro_002"
+msgid "OK, we drain that vitiated lake so the recovery can begin."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_intro_003"
+msgid ""
+"Exactly. We have three targets to take out, each one in sequence. There are "
+"weapons specifically designed to punch through wall plugs. We're going to "
+"borrow those."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_intro_004"
+msgid "This sound far to straight forward, no more improvisation?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_intro_005"
+msgid "Nothing's guaranteed at this stage. Let's get moving."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_depot1_001"
+msgid ""
+"This depot has the first Plasma cannon and according to the manifest, also "
+"has a current torpedo. Stick a pin in that one"
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_depot1_002"
+msgid "The cannon is secure... deployment coordinates received."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_cannon1_fired_001"
+msgid "That took a toll on the cannon. Its offline."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_cannon1_fired_002"
+msgid ""
+"Yea, only good for one shot unfortunately. Plotting a course to the next "
+"one."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_cannon1_fired_003"
+msgid ""
+"It needs powering up. Here are the cell locations. You know what to do."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_cannon2_fired_001"
+msgid "Two down, one to go."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_cannon2_fired_002"
+msgid ""
+"Good work, make your way back to the first depot and pick up that current "
+"torpedo we saw earlier."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_cannon2_fired_003"
+msgid "Copy, I'm on it."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_depot1_return_001"
+msgid "I have secured the torpedo, where do you want it?"
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_depot1_return_002"
+msgid "Deploy it right here."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_finaldepot_001"
+msgid ""
+"OK, this is the last one. Just needs a single cell. It's located in the "
+"outpost on your map."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_finaldepot_002"
+msgid ""
+"I see it. Be ready to call in the recovery vehicle as soon as I get the "
+"cannon."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_finaldepot_003"
+msgid "Will do."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_cannon3_fired_001"
+msgid ""
+"Recovery vehicle inbound. Move to its position and give it whatever cover it"
+" needs."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_cannon3_fired_002"
+msgid "Copy, Heading to its position now."
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_recovery_position_001"
+msgid ""
+"Something big is moving to your position, you can't let it jeopardise the "
+"mission. You know how important this is."
+msgstr ""
+
+msgctxt "[Pilot (Male)] m12_recovery_position_002"
+msgid ""
+"I understand what's at stake. I'll keep this thing busy. You make sure the "
+"vault is safe. Good luck"
+msgstr ""
+
+msgctxt "[Comms (Female)] m12_recovery_position_003"
+msgid "You too"
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_001"
+msgid "Copy that."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_002"
+msgid "Sure thing boss."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_003"
+msgid "Copy boss."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_004"
+msgid "Copy."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_005"
+msgid "Whatever you say."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_006"
+msgid "Understood."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_007"
+msgid "On it."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_008"
+msgid "Moving now."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_009"
+msgid "Got it."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_010"
+msgid "Heading there."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_011"
+msgid "I'm on it."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_ok_012"
+msgid "Roger that."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_001"
+msgid "Damn it."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_002"
+msgid "Really?"
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_003"
+msgid "That's encouraging."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_004"
+msgid "Sometimes I hate this job."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_005"
+msgid "Well... this can't be good."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_006"
+msgid "Of course it is."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_007"
+msgid "Why is it never easy?"
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_008"
+msgid "Here we go again."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_009"
+msgid "I've got a bad feeling about this."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_010"
+msgid "Nothing's ever simple."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_011"
+msgid "Just my luck."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_snark_012"
+msgid "This keeps getting better."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_combat_001"
+msgid "Target down."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_combat_002"
+msgid "Area clear."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_combat_003"
+msgid "Taking fire!"
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_combat_004"
+msgid "Hull's taking a beating."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_combat_005"
+msgid "Need a little breathing room."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_combat_006"
+msgid "They're everywhere."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_combat_007"
+msgid "That's one less problem."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_combat_008"
+msgid "Still with me."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_obj_001"
+msgid "Objective complete."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_obj_002"
+msgid "Package secured."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_obj_003"
+msgid "Moving to the next objective."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_obj_004"
+msgid "That's done."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_obj_005"
+msgid "Let's keep moving."
+msgstr ""
+
+msgctxt "[Pilot (Male)] pilot_obj_006"
+msgid "Almost there."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_ok_001"
+msgid "Good work."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_ok_002"
+msgid "Nice job."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_ok_003"
+msgid "Excellent."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_ok_004"
+msgid "Well done."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_ok_005"
+msgid "That's it."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_ok_006"
+msgid "Keep going."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_ok_007"
+msgid "Looking good."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_ok_008"
+msgid "Progress confirmed."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_warn_001"
+msgid "Be careful."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_warn_002"
+msgid "Incoming contacts."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_warn_003"
+msgid "Watch your hull."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_warn_004"
+msgid "You're taking damage."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_warn_005"
+msgid "Multiple hostiles inbound."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_warn_006"
+msgid "Stay mobile."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_warn_007"
+msgid "Don't get surrounded."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_warn_008"
+msgid "Watch your gauges."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_nav_001"
+msgid "Objective updated."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_nav_002"
+msgid "Coordinates uploaded."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_nav_003"
+msgid "I've marked it on your map."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_nav_004"
+msgid "New route available."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_nav_005"
+msgid "You're almost there."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_nav_006"
+msgid "Target is just ahead."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_nav_007"
+msgid "Proceed with caution."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_nav_008"
+msgid "Stand by for further instructions."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_misc_001"
+msgid "Objective complete."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_misc_002"
+msgid "Good, keep moving."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_misc_003"
+msgid "We're reading all clear."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_misc_004"
+msgid "Mission progressing as planned."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_misc_005"
+msgid "That should do it."
+msgstr ""
+
+msgctxt "[Comms (Female)] comms_misc_006"
+msgid "Let's move to the next objective."
+msgstr ""
+
+msgctxt "Obj_m1_001"
+msgid "Objective: Locate entrance to cave containing Weapons Cache"
+msgstr ""
+
+msgctxt "Obj_m1_002"
+msgid "Objective: Acquire Explosives to Breach the Cave Entrance"
+msgstr ""
+
+msgctxt "Obj_m1_003"
+msgid "Objective: Recover the Weapons Cache"
+msgstr ""
+
+msgctxt "Obj_m2_001"
+msgid "Objective: Locate Naval Repair Rig"
+msgstr ""
+
+msgctxt "Obj_m2_002"
+msgid "Objective: Salvage Power Cells From Disabled Drones"
+msgstr ""
+
+msgctxt "Obj_m2_003"
+msgid "Objective: Charge Repair Rig"
+msgstr ""
+
+msgctxt "Obj_m3_001"
+msgid "Objective: Investigate EX-Class Wrecks"
+msgstr ""
+
+msgctxt "Obj_m3_002"
+msgid "Objective: Recover Experimental Weapon Components"
+msgstr ""
+
+msgctxt "Obj_m3_003"
+msgid "Objective: Salvage All EX Wrecks"
+msgstr ""
+
+msgctxt "Obj_m4_001"
+msgid "Objective: Eliminate Hostiles in Area One"
+msgstr ""
+
+msgctxt "Obj_m4_002"
+msgid "Objective: Clear the Next Chamber"
+msgstr ""
+
+msgctxt "Obj_m4_003"
+msgid "Objective: Eliminate Remaining Targets"
+msgstr ""
+
+msgctxt "Obj_m5_001"
+msgid "Locate Naval Repair Rig."
+msgstr ""
+
+msgctxt "Obj_m5_002"
+msgid "Salvage Reactor Charges From Wrecks."
+msgstr ""
+
+msgctxt "Obj_m5_003"
+msgid "Charge Repair Rig"
+msgstr ""
+
+msgctxt "Obj_m5_004"
+msgid "Locate Missing Submarine."
+msgstr ""
+
+msgctxt "Obj_m5_005"
+msgid "Escort Rescue Drone To Surface"
+msgstr ""
+
+msgctxt "Obj_m6_001"
+msgid "Objective: Investigate the Gate Signal"
+msgstr ""
+
+msgctxt "Obj_m6_002"
+msgid "Objective: Recover the Gate Drone"
+msgstr ""
+
+msgctxt "Obj_m6_003"
+msgid "Objective: Open the Ancient Gate"
+msgstr ""
+
+msgctxt "Obj_m6_004"
+msgid "Objective: Escape the Facility"
+msgstr ""
+
+msgctxt "Obj_m7_001"
+msgid "Objective: Reach the EX Wreck"
+msgstr ""
+
+msgctxt "Obj_m7_002"
+msgid "Objective: Navigate the Vitiated Lake"
+msgstr ""
+
+msgctxt "Obj_m7_003"
+msgid "Objective: Destroy the Choke Point"
+msgstr ""
+
+msgctxt "Obj_m7_004"
+msgid "Objective: Recover EX Salvage"
+msgstr ""
+
+msgctxt "Obj_m8_001"
+msgid "Objective: Investigate the Weapons Depot"
+msgstr ""
+
+msgctxt "Obj_m8_002"
+msgid "Objective: Restore Depot Power"
+msgstr ""
+
+msgctxt "Obj_m8_003"
+msgid "Objective: Acquire Demolition Core"
+msgstr ""
+
+msgctxt "Obj_m8_004"
+msgid "Objective: Breach the Beagle-6 Chamber"
+msgstr ""
+
+msgctxt "Obj_m8_005"
+msgid "Objective: Recover Beagle-6 Wreckage"
+msgstr ""
+
+msgctxt "Obj_m9_001"
+msgid "Objective: Reach the Search Grid"
+msgstr ""
+
+msgctxt "Obj_m9_002"
+msgid "Objective: Acquire Current Restrictor"
+msgstr ""
+
+msgctxt "Obj_m9_003"
+msgid "Objective: Neutralise the Flesh Wall"
+msgstr ""
+
+msgctxt "Obj_m9_004"
+msgid "Objective: Recover the Beagle-6 Wreck"
+msgstr ""
+
+msgctxt "Obj_m9_005"
+msgid "Objective: Defeat the Apex Predator"
+msgstr ""
+
+msgctxt "Obj_m10_001"
+msgid "Objective: Reach the UNCF Outpost"
+msgstr ""
+
+msgctxt "Obj_m10_002"
+msgid "Objective: Acquire the UNCF Transponder"
+msgstr ""
+
+msgctxt "Obj_m10_003"
+msgid "Objective: Extract the Recovery Vehicle"
+msgstr ""
+
+msgctxt "Obj_m11_001"
+msgid "Objective: Transport the Transponder"
+msgstr ""
+
+msgctxt "Obj_m11_002"
+msgid "Objective: Reach the EMP Ambush Site"
+msgstr ""
+
+msgctxt "Obj_m11_003"
+msgid "Objective: Capture the Recovery Vehicle"
+msgstr ""
+
+msgctxt "Obj_m12_001"
+msgid "Objective: Drain the Vitiated Lake"
+msgstr ""
+
+msgctxt "Obj_m12_002"
+msgid "Objective: Acquire Plasma Cannon"
+msgstr ""
+
+msgctxt "Obj_m12_003"
+msgid "Objective: Destroy Wall Plug One"
+msgstr ""
+
+msgctxt "Obj_m12_004"
+msgid "Objective: Destroy Wall Plug Two"
+msgstr ""
+
+msgctxt "Obj_m12_005"
+msgid "Objective: Destroy Final Wall Plug"
+msgstr ""
+
+msgctxt "Obj_m12_006"
+msgid "Objective: Defend the Recovery Vehicle"
+msgstr ""
+
+msgctxt "Obj_m12_007"
+msgid "Objective: Secure the Specimen Vault"
+msgstr ""
