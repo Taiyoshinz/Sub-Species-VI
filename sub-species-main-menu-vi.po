@@ -1,0 +1,154 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#0 menu"
+msgid "Play"
+msgstr ""
+
+msgctxt "#1 menu"
+msgid "Continue"
+msgstr ""
+
+msgctxt "#2 menu"
+msgid "New Game"
+msgstr ""
+
+msgctxt "#3 menu"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "#4 menu"
+msgid "Save Game"
+msgstr ""
+
+msgctxt "#5 menu"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#6 menu"
+msgid "Controls"
+msgstr ""
+
+msgctxt "#7 menu"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#8 menu"
+msgid "Graphics"
+msgstr ""
+
+msgctxt "#9 menu"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "#10 menu"
+msgid "Language"
+msgstr ""
+
+msgctxt "#11 menu"
+msgid "Credits"
+msgstr ""
+
+msgctxt "#12 menu"
+msgid "Quit"
+msgstr ""
+
+msgctxt "#13 menu"
+msgid "Back"
+msgstr ""
+
+msgctxt "#14 menu"
+msgid "Resume"
+msgstr ""
+
+msgctxt "#15 menu"
+msgid "Restart"
+msgstr ""
+
+msgctxt "#16 menu"
+msgid "Return to Main Menu"
+msgstr ""
+
+msgctxt "#17 menu"
+msgid "Master Volume"
+msgstr ""
+
+msgctxt "#18 menu"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt "#19 menu"
+msgid "Sound Effects Volume"
+msgstr ""
+
+msgctxt "#20 menu"
+msgid "Voice Volume"
+msgstr ""
+
+msgctxt "#21 menu"
+msgid "Rotate"
+msgstr ""
+
+msgctxt "#22 menu"
+msgid "Move"
+msgstr ""
+
+msgctxt "#23 menu"
+msgid "Speed Boost"
+msgstr ""
+
+msgctxt "#24 menu"
+msgid "Fire Weapon"
+msgstr ""
+
+msgctxt "#25 menu"
+msgid "Fire Heavy Weapon"
+msgstr ""
+
+msgctxt "#26 menu"
+msgid "Hover Mode"
+msgstr ""
+
+msgctxt "#27 menu"
+msgid "Deploy Mine / Flare"
+msgstr ""
+
+msgctxt "#28 menu"
+msgid "Toggle Mine / Flare"
+msgstr ""
+
+msgctxt "#29 menu"
+msgid "Map"
+msgstr ""
+
+msgctxt "#30 menu"
+msgid "Press Կ  or  Ե to Open\\Close Map"
+msgstr ""
+
+msgctxt "#31 menu"
+msgid "Collected"
+msgstr ""
+
+msgctxt "#32 menu"
+msgid "Mines"
+msgstr ""
+
+msgctxt "#33 menu"
+msgid "Flares"
+msgstr ""
+
+msgctxt "#34 menu"
+msgid "Beam Weapon"
+msgstr ""
+
+msgctxt "#35 menu"
+msgid "Light Weapon"
+msgstr ""
+
+msgctxt "#36 menu"
+msgid "Torpedos"
+msgstr ""
